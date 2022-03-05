@@ -22,6 +22,13 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+
+https://user-images.githubusercontent.com/73111863/156900943-c706f1d9-52d8-4fdf-9ee5-b596a09d7158.mov
+
+
+
+
 Twitter APP is a basic twitter app to read your tweets.
 
 Time spent: 4 hours spent in total
