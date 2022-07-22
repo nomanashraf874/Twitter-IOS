@@ -22,8 +22,8 @@ Completed functionality :
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-Part1:
+### Part1:
 https://i.imgur.com/mZ6fkZl.mp4
 
-Part2:
+### Part2:
 https://user-images.githubusercontent.com/73111863/156900943-c706f1d9-52d8-4fdf-9ee5-b596a09d7158.mov
