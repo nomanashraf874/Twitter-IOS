@@ -1,7 +1,6 @@
 # Project 3 - Twitter APP
-# Twitter - Part II
 
-This is a basic twitter app to view, compose, favorite, and retweet tweets.
+OS Twitter client app that allows users to log in, view their feed and compose, favorite, and retweet tweet.
 
 ## User Stories
 
