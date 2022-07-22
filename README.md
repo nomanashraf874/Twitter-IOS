@@ -1,4 +1,4 @@
-# Project 3 - Twitter APP
+# Twitter Client APP
 
 OS Twitter client app that allows users to log in, view their feed and compose, favorite, and retweet tweet.
 
