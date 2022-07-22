@@ -6,18 +6,18 @@ OS Twitter client app that allows users to log in, view their feed and compose, 
 
 Completed functionality :
 Part 1:
-- [X] User sees app icon in home screen and styled launch screen. (1pt)
-- [X] User can log in. (1pt)
-- [X] User can log out. (1pt)
-- [X] User stays logged in across restarts. (1pt)
-- [X] User can view tweets with the user profile picture, username, and tweet text. (6pts)
-- [X] User can pull to refresh. (1pt)
-- [X] User can load past tweets infinitely. (2pts)
+- [X] User sees app icon in home screen and styled launch screen. 
+- [X] User can log in. 
+- [X] User can log out. 
+- [X] User stays logged in across restarts. 
+- [X] User can view tweets with the user profile picture, username, and tweet text. 
+- [X] User can pull to refresh. 
+- [X] User can load past tweets infinitely. 
 Part 2:
-- [X] User can compose a tweet. (4pts)
-- [X] User can favorite a tweet. (4pts)
-- [X] User can retweet a tweet. (2pts)
-- [X] User sees embedded images in tweet if available. (3pts)
+- [X] User can compose a tweet. 
+- [X] User can favorite a tweet. 
+- [X] User can retweet a tweet. 
+- [X] User sees embedded images in tweet if available. 
 
 ## Video Walkthrough
 
